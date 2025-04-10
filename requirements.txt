@@ -1,0 +1,7 @@
+streamlit
+duckdb
+sqlparse
+moz_sql_parser
+spacy
+nltk
+pandas
